@@ -30,7 +30,7 @@ nav {
     background-image: url("images/fish.jpg");
     background-size: cover;
     background-position: center;
-    animation: slide 8s infinite;
+    animation: slide 10s infinite;
 }
 
 .slide {
